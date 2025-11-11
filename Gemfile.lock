@@ -110,8 +110,8 @@ PLATFORMS
 DEPENDENCIES
   doohly!
   rake (~> 13.0)
-  rspec (~> 3.12, ~> 3.0)
-  rubocop (~> 1.50, ~> 1.21)
+  rspec (~> 3.12)
+  rubocop (~> 1.50)
   rubocop-rspec (~> 2.20)
   simplecov (~> 0.22)
   vcr (~> 6.1)
