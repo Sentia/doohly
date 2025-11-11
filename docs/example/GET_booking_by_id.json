@@ -1,0 +1,1347 @@
+{
+    "createdAt": "2025-07-30T01:05:05.345Z",
+    "assignedCreativeCount": 2,
+    "assignedFrameCount": 14,
+    "creativeSchedulesEnabled": false,
+    "creativeWeightsEnabled": false,
+    "id": "b25a0f83-4dc7-4825-8f0b-3c1ca6c0c3f1",
+    "loopsPerPlay": 1,
+    "name": "Containers for change Tavern 3",
+    "playConsecutively": false,
+    "playsPerLoop": 1,
+    "purchaseType": "Sold",
+    "status": "booked",
+    "updatedAt": "2025-08-10T22:45:50.283Z",
+    "externalId": null,
+    "seedooh": {
+        "enabled": true
+    },
+    "campaign": {
+        "id": "33fee5d1-f69d-460e-bc51-90cec206425b",
+        "name": "Containers for Change October",
+        "status": "active",
+        "startDate": "2025-10-05",
+        "endDate": "2025-11-02",
+        "createdAt": "2025-08-05T00:09:43.711Z",
+        "updatedAt": "2025-08-10T22:45:33.638Z",
+        "externalId": null,
+        "seedooh": {
+            "enabled": false,
+            "contractId": null,
+            "locked": false
+        }
+    },
+    "assignedCreatives": [
+        {
+            "id": "bffdb715-efaa-4b33-8599-a0303fe6fbfe",
+            "order": 0,
+            "durationSource": "custom",
+            "durationMs": 15040,
+            "weight": 1,
+            "frameTargetingEnabled": false,
+            "creative": {
+                "id": "f53e6752-b09e-488f-a70a-122028896dd4",
+                "name": "WRRRBH0166-04-OOH-Winboard-Minesite-1080x1920.mp4",
+                "type": "video",
+                "fileId": "f53e6752-b09e-488f-a70a-122028896dd4",
+                "createdAt": "2025-07-30T00:29:04.012Z",
+                "updatedAt": "2025-07-30T00:29:04.006Z",
+                "playback": {
+                    "scaling": "contain"
+                },
+                "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                "thumbnailId": "2b25a4bf-4466-4564-9709-d4a7225e97c6"
+            },
+            "schedules": []
+        },
+        {
+            "id": "c0e926bf-b549-479d-bf43-ca20273e39f1",
+            "order": 1,
+            "durationSource": "custom",
+            "durationMs": 15040,
+            "weight": 1,
+            "frameTargetingEnabled": false,
+            "creative": {
+                "id": "ec9b842d-3b84-4ccc-a481-d6925fc05462",
+                "name": "WRRRBH0166-07-OOH-Winboard-Minesite-1080x1920.mp4",
+                "type": "video",
+                "fileId": "ec9b842d-3b84-4ccc-a481-d6925fc05462",
+                "createdAt": "2025-07-30T00:29:55.125Z",
+                "updatedAt": "2025-07-30T00:29:55.116Z",
+                "playback": {
+                    "scaling": "contain"
+                },
+                "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                "thumbnailId": "1815abf0-44a6-401a-8582-f499bc07da79"
+            },
+            "schedules": []
+        }
+    ],
+    "assignedFrames": [
+        {
+            "id": "8bde7961-a3fd-4e48-89aa-cfac6606c7e8",
+            "frame": {
+                "id": "151a79f1-026f-4463-9551-f4444d3cf7c2",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "a1ba469c-64a6-4fcf-9384-faff6d852516",
+                    "name": "Nammuldi",
+                    "aliveAt": "2025-08-08T12:57:10.352Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.3117587,
+                            -22.5721291
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T04:12:37.697Z",
+                    "updatedAt": "2025-08-08T12:57:10.360Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": false,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "bd0c79d2-3a72-4430-8a37-86fa9e31736f",
+            "frame": {
+                "id": "274b0318-2a35-4977-91e6-0a5abdd5ac8d",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "5e9a5824-3e36-43b8-95da-5a7b7ff28bf2",
+                    "name": "West Pilbara Village",
+                    "aliveAt": "2025-08-20T05:01:11.294Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.3058078,
+                            -22.5724151
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T05:34:15.419Z",
+                    "updatedAt": "2025-08-20T05:01:11.300Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "e92bbdc6-c8ef-41a0-9f08-f1b7c392f34f",
+            "frame": {
+                "id": "36473904-e980-44cf-8a0a-d2c4078b45b2",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "3ef76541-1235-4a63-8c40-749428efdab9",
+                    "name": "Yandi",
+                    "aliveAt": "2025-08-20T05:00:54.797Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            119.2543945,
+                            -22.7411174
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-30T00:43:05.033Z",
+                    "updatedAt": "2025-08-20T05:00:54.804Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "c1546de3-0a4f-4d64-9871-2fe60b33a95f",
+            "frame": {
+                "id": "3ecc4885-fecd-4f03-ae6b-0954bd16f480",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "0b37e4c3-d947-4603-9890-cf123c1f0bd4",
+                    "name": "Punurunnha",
+                    "aliveAt": "2025-08-20T05:01:14.911Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            118.0166812,
+                            -22.5782517
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T04:47:30.125Z",
+                    "updatedAt": "2025-08-20T05:01:14.919Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": "Karajini Drive",
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "4b252839-0e32-4d48-9c19-2b53ff0683bd",
+            "frame": {
+                "id": "3feb7523-33b3-411c-8bff-9bca5a75d1ab",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "d8050dbb-4aea-413b-b86f-d6968d4002fe",
+                    "name": "Gudai-Darri 3",
+                    "aliveAt": "2025-08-20T05:01:02.740Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            119.0938644,
+                            -22.5386657
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-30T03:56:56.083Z",
+                    "updatedAt": "2025-08-20T05:01:02.755Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "a6919a17-91ec-45f3-9d65-22bc318c0e46",
+            "frame": {
+                "id": "57e2638d-c6dc-4189-a9de-07fb0b4e3735",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "5c9a7717-1311-4718-b0e3-addb5c06d578",
+                    "name": "Jundunmunnah",
+                    "aliveAt": "2025-08-20T05:00:55.366Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.774843,
+                            -22.7316904
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": false,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T00:59:56.982Z",
+                    "updatedAt": "2025-08-20T05:00:55.373Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": "Mine Road",
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "ddd30219-8e28-40ef-874a-475a2edebf53",
+            "frame": {
+                "id": "751a3c91-bd3c-4aa3-971e-5d964babac7f",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "cf85fa9b-45a6-4a59-b430-49b0982e1512",
+                    "name": "West Angelas Village",
+                    "aliveAt": "2025-08-20T05:00:55.366Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            118.6961227,
+                            -23.1300387
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T22:59:19.965Z",
+                    "updatedAt": "2025-08-20T05:00:55.373Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "592debd9-494c-4301-8aa2-07b1a532d2e2",
+            "frame": {
+                "id": "83f8b820-d03d-4ab1-9d83-d14edd221ec7",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "cc0cec6e-f0f4-469a-8f1c-5598e278a6bb",
+                    "name": "Brockman 2",
+                    "aliveAt": "2025-08-20T05:00:55.366Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.3777667,
+                            -22.3854392
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-28T03:38:31.363Z",
+                    "updatedAt": "2025-08-20T05:00:55.373Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": "665 Welshpool Road East",
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "f5e00b6e-d78c-4083-83da-dc25c546ed20",
+            "frame": {
+                "id": "8433e862-d6fc-45f9-b9ed-5aa859822455",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "15c00813-8b1d-415c-b9df-9d6e4b0a39da",
+                    "name": "Hope Downs 1",
+                    "aliveAt": "2025-08-16T06:21:32.085Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            119.0206743,
+                            -23.0511998
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-28T22:44:06.853Z",
+                    "updatedAt": "2025-08-16T06:21:32.091Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": false,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "54884959-c1a0-471d-97b3-99eef9f6a69e",
+            "frame": {
+                "id": "a7513afa-03b4-4d5e-9c87-e50fd027466e",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "878051ec-1d39-45c3-acdb-f8aa446ef97a",
+                    "name": "Brockman 4",
+                    "aliveAt": "2025-08-20T05:00:54.797Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.3098938,
+                            -22.5697827
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-28T04:41:49.155Z",
+                    "updatedAt": "2025-08-20T05:00:54.804Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "64bb3410-8e56-4c80-b751-16a2c36a1501",
+            "frame": {
+                "id": "cc2757eb-7bbd-4c9c-b6a8-3623ecd906a1",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "e7024900-036d-46fd-9b3a-2699865322c7",
+                    "name": "Jerrwiah",
+                    "aliveAt": "2025-08-09T07:42:19.652Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            117.3757375,
+                            -22.3925032
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T01:55:21.450Z",
+                    "updatedAt": "2025-08-09T07:42:19.658Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": false,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "d647be2c-c65c-4ad8-85c4-b1eeaa34330e",
+            "frame": {
+                "id": "da68d846-008b-42d6-9dcb-af5ee26cd2e1",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "092d8f4c-b9a7-42b9-9a98-0eb9b12d4e0d",
+                    "name": "Gudai-Darri 2",
+                    "aliveAt": "2025-08-20T05:01:14.911Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            119.0938644,
+                            -22.5386657
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": false,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-07-14T04:07:06.413Z",
+                    "updatedAt": "2025-08-20T05:01:14.919Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "ff23e67b-e778-4653-8afd-ef9fe38cfe8a",
+            "frame": {
+                "id": "e4b55f29-9445-4b23-bef4-ee931643045d",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "ae49cdb4-4b0a-4bb1-b259-4b9f7d88001a",
+                    "name": "Hope Downs 4",
+                    "aliveAt": "2025-08-20T05:00:54.797Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            119.5077867,
+                            -23.2044217
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-28T23:55:30.863Z",
+                    "updatedAt": "2025-08-20T05:00:54.804Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": null,
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        },
+        {
+            "id": "719d794b-0c3b-4da4-9c2c-1e94413c340b",
+            "frame": {
+                "id": "f99e5763-af8f-47dc-89bf-fef5863775bd",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "device": {
+                    "id": "33c557f5-2b5c-41ae-9817-084081823fc9",
+                    "name": "Mesa A",
+                    "aliveAt": "2025-08-20T05:00:55.366Z",
+                    "brightness": 100,
+                    "externalId": "Tavern",
+                    "geoLocation": {
+                        "type": "Point",
+                        "coordinates": [
+                            115.8810653,
+                            -21.6611289
+                        ]
+                    },
+                    "timezone": "Australia/West",
+                    "variant": "desktop",
+                    "volume": 50,
+                    "hardwareAccelerationEnabled": true,
+                    "minimized": false,
+                    "locked": false,
+                    "isTest": false,
+                    "targetReleaseAfter": null,
+                    "targetReleaseTimezone": null,
+                    "programmaticPackageType": null,
+                    "createdAt": "2025-05-29T03:21:08.402Z",
+                    "updatedAt": "2025-08-20T05:00:55.373Z",
+                    "deletedAt": null,
+                    "location": {
+                        "address": "Tourist Drive 354",
+                        "city": null,
+                        "state": null,
+                        "postcode": null,
+                        "country": null
+                    },
+                    "mappedIn": {
+                        "enabled": false,
+                        "idleDelayMs": null
+                    },
+                    "volumeControl": {
+                        "enabled": false,
+                        "muted": true,
+                        "updateIntervalMs": null
+                    },
+                    "seedooh": {},
+                    "vistar": {
+                        "enabled": false,
+                        "networkId": null,
+                        "venueId": null
+                    },
+                    "isConnected": true,
+                    "bringToFrontTimer": {
+                        "override": false,
+                        "enabled": false,
+                        "intervalMs": 0
+                    },
+                    "screenControl": {
+                        "connectionSettings": null,
+                        "connectionType": null,
+                        "enabled": false,
+                        "endBufferDurationMs": 600000,
+                        "modelId": null,
+                        "repeatMs": 300000,
+                        "startBufferDurationMs": 600000
+                    }
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        }
+    ],
+    "schedule": {
+        "id": "399d6f30-b9c8-46e1-83de-e493e7bec998",
+        "timezone": "Australia/Sydney",
+        "useLocalTime": true,
+        "startDate": "2025-10-05",
+        "endDate": "2025-11-02",
+        "startTime": "00:00:00",
+        "endTime": "23:59:59",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "tags": []
+}

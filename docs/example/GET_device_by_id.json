@@ -1,0 +1,1268 @@
+{
+    "id": "092d8f4c-b9a7-42b9-9a98-0eb9b12d4e0d",
+    "name": "Gudai-Darri 2",
+    "aliveAt": "2025-08-20T04:36:43.499Z",
+    "brightness": 100,
+    "externalId": "Tavern",
+    "geoLocation": {
+        "type": "Point",
+        "coordinates": [
+            119.0938644,
+            -22.5386657
+        ]
+    },
+    "timezone": "Australia/West",
+    "variant": "desktop",
+    "volume": 50,
+    "hardwareAccelerationEnabled": false,
+    "minimized": false,
+    "locked": false,
+    "isTest": false,
+    "targetReleaseAfter": null,
+    "targetReleaseTimezone": null,
+    "programmaticPackageType": null,
+    "createdAt": "2025-07-14T04:07:06.413Z",
+    "updatedAt": "2025-08-20T04:36:43.507Z",
+    "deletedAt": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "state": null,
+        "postcode": null,
+        "country": null
+    },
+    "mappedIn": {
+        "enabled": false,
+        "idleDelayMs": null
+    },
+    "volumeControl": {
+        "enabled": false,
+        "muted": true,
+        "updateIntervalMs": null
+    },
+    "seedooh": {
+        "category": {
+            "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+            "name": "Casual Dining"
+        }
+    },
+    "vistar": {
+        "enabled": false,
+        "networkId": null,
+        "venueId": null
+    },
+    "meta": {
+        "application": {
+            "version": "5.7.5"
+        },
+        "system": {
+            "manufacturer": "LattePanda",
+            "model": "LattePanda 3 Delta",
+            "serial": "-"
+        },
+        "os": {
+            "platform": "linux",
+            "distro": "Ubuntu",
+            "release": "22.04.5 LTS",
+            "kernel": "6.8.0-60-generic",
+            "arch": "x64"
+        },
+        "network": {
+            "interface": "wlo1",
+            "ip4": "192.168.170.45",
+            "ip4subnet": "255.255.248.0",
+            "mac": "e8:bf:b8:01:bf:7b",
+            "type": "wireless",
+            "speed": -1,
+            "dhcp": false
+        },
+        "memory": {
+            "total": 8129581056,
+            "free": 658694144
+        },
+        "storage": {
+            "total": 60701995008,
+            "free": 43180855296
+        },
+        "updatedAt": "2025-08-20T04:33:29.231Z"
+    },
+    "referenceImage": null,
+    "frames": [
+        {
+            "id": "da68d846-008b-42d6-9dcb-af5ee26cd2e1",
+            "name": "Default",
+            "order": 0,
+            "bounds": {
+                "units": "percentage",
+                "width": 100,
+                "height": 100,
+                "x": 0,
+                "y": 0
+            },
+            "backgroundColor": "#000000",
+            "seedooh": {
+                "enabled": true,
+                "panelId": null
+            },
+            "bookingAssignedFrames": [
+                {
+                    "id": "2568b5ff-e715-4303-bb58-2847831669f7",
+                    "booking": {
+                        "createdAt": "2025-07-08T04:08:30.573Z",
+                        "assignedCreativeCount": 4,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "d32f2bb5-3db0-4009-a023-5b44856ea622",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 8/7 - 6/9",
+                        "playConsecutively": false,
+                        "playsPerLoop": 4,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-07-14T04:48:45.902Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "403f3e54-de29-4100-8134-b3975883195f",
+                                "order": 1,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "aa1ba249-729f-40ba-8d8b-3e2878ccd09e",
+                                    "name": "BUNDY CONSUMER PROMO.jpg",
+                                    "type": "image",
+                                    "fileId": "aa1ba249-729f-40ba-8d8b-3e2878ccd09e",
+                                    "createdAt": "2025-07-08T03:54:40.707Z",
+                                    "updatedAt": "2025-08-13T22:54:33.080Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "a7c7b7ef-a387-4d33-9e77-67dcaa6c0c8d",
+                                    "thumbnailId": "c13a4be6-43cb-4e36-8fe9-789e5fd78c50"
+                                }
+                            },
+                            {
+                                "id": "4f27c3a7-b67a-4171-814d-629b8f164c98",
+                                "order": 0,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "c2e87631-b462-4fa9-b883-6d61e06f9f16",
+                                    "name": "ALBY CRISP_.jpg",
+                                    "type": "image",
+                                    "fileId": "c2e87631-b462-4fa9-b883-6d61e06f9f16",
+                                    "createdAt": "2025-07-08T03:54:40.403Z",
+                                    "updatedAt": "2025-08-13T22:54:33.080Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "a7c7b7ef-a387-4d33-9e77-67dcaa6c0c8d",
+                                    "thumbnailId": "c8802f85-2f17-43e7-b8c6-02a059207dae"
+                                }
+                            },
+                            {
+                                "id": "886b7060-1091-4f55-83d1-b53e22b18c2a",
+                                "order": 3,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "0d1b5f10-0587-421d-85bd-175c8d383096",
+                                    "name": "STICKY ADDICTION LTO.jpg",
+                                    "type": "image",
+                                    "fileId": "0d1b5f10-0587-421d-85bd-175c8d383096",
+                                    "createdAt": "2025-07-08T03:54:41.976Z",
+                                    "updatedAt": "2025-08-13T22:54:33.080Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "a7c7b7ef-a387-4d33-9e77-67dcaa6c0c8d",
+                                    "thumbnailId": "3586d02b-dacc-422e-b200-2f837ceb6985"
+                                }
+                            },
+                            {
+                                "id": "a67ab54b-23c5-463e-a20e-c33546ef6f86",
+                                "order": 2,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "15e38713-d26b-4200-acfa-a1d77e12e338",
+                                    "name": "STICKY ADDICTION CONSUMER PROMO.jpg",
+                                    "type": "image",
+                                    "fileId": "15e38713-d26b-4200-acfa-a1d77e12e338",
+                                    "createdAt": "2025-07-08T03:54:44.527Z",
+                                    "updatedAt": "2025-08-13T22:54:33.080Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "a7c7b7ef-a387-4d33-9e77-67dcaa6c0c8d",
+                                    "thumbnailId": "cdaed143-7be3-4c5e-9b35-68cd5d921843"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "9ff734f0-e6f4-4d9d-8faf-85e8bd3a51e3",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-07-08",
+                            "endDate": "2025-09-06",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "78485a92-8413-4e9c-be11-31dc69db7dce",
+                    "booking": {
+                        "createdAt": "2025-08-10T22:36:31.013Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "5c6132ef-ddfa-4f16-930b-4a66b08b68ab",
+                        "loopsPerPlay": 1,
+                        "name": "Containers for change Tavern 1",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-10T22:37:44.756Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": true
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "4049fd6e-c487-46af-a22f-4386e463ecb6",
+                                "order": 1,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "8dc6844e-3038-43f8-a0ff-1b96fe2ed45e",
+                                    "name": "WRRRBH0166-03-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "8dc6844e-3038-43f8-a0ff-1b96fe2ed45e",
+                                    "createdAt": "2025-07-30T00:28:16.912Z",
+                                    "updatedAt": "2025-07-30T00:28:16.905Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "89beaacd-9b48-4ecd-91e6-39f95a019725"
+                                }
+                            },
+                            {
+                                "id": "db45c9c5-6933-4666-8017-a2df3a600e16",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "f8a9011f-22e8-488b-a128-a808f7768751",
+                                    "name": "WRRRBH0166-02-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "f8a9011f-22e8-488b-a128-a808f7768751",
+                                    "createdAt": "2025-07-30T00:28:26.084Z",
+                                    "updatedAt": "2025-07-30T00:28:26.078Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "1c723b02-d0f5-47db-820d-8eaad24e22f1"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "9f58ced8-bd19-4b5b-9132-241ff2144102",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-08-04",
+                            "endDate": "2025-08-31",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "eb9af699-b7b3-46d6-97b2-afc00a96c84f",
+                    "booking": {
+                        "createdAt": "2025-06-27T03:30:23.485Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 18,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "f3016360-cd86-428a-b6bb-1f0e356d3687",
+                        "loopsPerPlay": 1,
+                        "name": "Swyftx",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-10T22:39:36.673Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": true
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "67a16750-0d85-4f39-b036-62d0837c65a6",
+                                "order": 1,
+                                "durationSource": "custom",
+                                "durationMs": 7000,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "c437704e-85be-43cd-8a56-958229efcba7",
+                                    "name": "Swyftx FIFO Screens_1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "c437704e-85be-43cd-8a56-958229efcba7",
+                                    "createdAt": "2025-06-27T03:30:49.325Z",
+                                    "updatedAt": "2025-06-27T03:30:49.316Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": null,
+                                    "thumbnailId": "9d3c2c9c-3f9d-480d-a14d-afa7901a4114"
+                                }
+                            },
+                            {
+                                "id": "ea2f355a-9e80-44ce-a74b-1ace88c3bc3e",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 10000,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "78e07f5b-4176-404b-bf39-f073f3516d67",
+                                    "name": "Swyftx FIFO Screens_Static_1080x1920.jpg",
+                                    "type": "image",
+                                    "fileId": "78e07f5b-4176-404b-bf39-f073f3516d67",
+                                    "createdAt": "2025-06-27T03:30:47.032Z",
+                                    "updatedAt": "2025-06-27T03:30:47.023Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": null,
+                                    "thumbnailId": "8286edaa-51cf-4f49-b225-ada476cd015f"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "2039144a-83e3-4b8a-838b-87eb6a5729db",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-06-27",
+                            "endDate": "2025-09-29",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "3124d069-129f-4f7b-b777-d38c953e0c95",
+                    "booking": {
+                        "createdAt": "2025-07-11T03:53:22.711Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "d093da58-2d06-494c-879f-7757cbf8e4b7",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 6/10 - 9/11",
+                        "playConsecutively": false,
+                        "playsPerLoop": 2,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-07-24T23:16:02.023Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "2239fe27-5bc3-4e95-8fbe-2f364b4e5b37",
+                                "order": 1,
+                                "durationSource": "custom",
+                                "durationMs": 10000,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "2c1bb571-fd09-4458-804b-dbf6b5163cd2",
+                                    "name": "Sodexo Billsons 1080x1920 116067.mp4",
+                                    "type": "video",
+                                    "fileId": "2c1bb571-fd09-4458-804b-dbf6b5163cd2",
+                                    "createdAt": "2025-07-24T23:15:35.765Z",
+                                    "updatedAt": "2025-08-13T22:48:44.645Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "91d77a69-1ceb-4ebe-88f6-f2e4219178e9",
+                                    "thumbnailId": "dd8ddd4f-69dc-40d8-b35b-b6ecdff31661"
+                                }
+                            },
+                            {
+                                "id": "012b2237-1a68-4949-a86e-104f0c8bfd8a",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 10010,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "68a711c9-af98-44f5-b8fa-62eb3d7f0d51",
+                                    "name": "Coopers_ArcadeGame_ETW_SodexoPromo_DigiScreen_Portrait_FA_MidStrength.mp4",
+                                    "type": "video",
+                                    "fileId": "68a711c9-af98-44f5-b8fa-62eb3d7f0d51",
+                                    "createdAt": "2025-07-11T03:48:07.953Z",
+                                    "updatedAt": "2025-08-13T22:48:36.944Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "91d77a69-1ceb-4ebe-88f6-f2e4219178e9",
+                                    "thumbnailId": "46fdec60-54c0-4488-b10b-9e2d9062fb44"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "58396f62-1191-4545-a414-b3bab5deea1b",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-10-06",
+                            "endDate": "2025-11-09",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "6403a623-efd6-4b1a-8fb8-64561da72850",
+                    "booking": {
+                        "createdAt": "2025-07-24T23:13:24.286Z",
+                        "assignedCreativeCount": 1,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "21191cdf-65d0-4a52-a9c9-5014d6ed69e3",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 8/9 - 5/10",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-07-24T23:16:21.095Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "b2752409-6c7e-4d55-8675-6ae04dc39c51",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 8000,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "bfa0f8ca-b919-4107-9dd2-50f1921496f4",
+                                    "name": "BG26380_Jim Beam_Sodexo CTW Aussie Getaway_MidStrength_V1.mp4",
+                                    "type": "video",
+                                    "fileId": "bfa0f8ca-b919-4107-9dd2-50f1921496f4",
+                                    "createdAt": "2025-07-24T23:13:51.266Z",
+                                    "updatedAt": "2025-08-13T22:49:38.257Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "4ac097b3-f483-4f94-af15-fd1fba9662d9",
+                                    "thumbnailId": "155fd723-c0e1-4de0-a3c4-4fbfd3e57065"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "a24cd9fd-3cff-4daa-92fa-77d52578e72b",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-09-08",
+                            "endDate": "2025-10-05",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "5b6ac404-b4c1-4663-b84b-8f3a306cbf78",
+                    "booking": {
+                        "createdAt": "2025-08-13T23:22:13.536Z",
+                        "assignedCreativeCount": 1,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "40144ce1-1490-4536-b354-085c3efc87d4",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 7. Decemeber",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-13T23:23:11.252Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "9b2e84aa-cbff-48bf-ac30-48ca3e9626a3",
+                                "order": 0,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "924d5a3b-9157-43d4-8329-66f0aff7b319",
+                                    "name": "126503 Asahi Locals BALTER CERVEZA_DIGI 1080x1920.jpg",
+                                    "type": "image",
+                                    "fileId": "924d5a3b-9157-43d4-8329-66f0aff7b319",
+                                    "createdAt": "2025-08-13T22:56:50.028Z",
+                                    "updatedAt": "2025-08-13T22:56:50.023Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "e325dd55-dd70-486e-b61b-816ce6f4678d",
+                                    "thumbnailId": "d8230f27-8d8f-42c1-a1af-7fdb35f849a8"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "4164f13c-b267-4b24-89ae-d746296ee6f9",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-12-08",
+                            "endDate": "2026-01-11",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "391c8e1b-8214-4ba4-b8f6-218c97dc6806",
+                    "booking": {
+                        "createdAt": "2025-07-30T01:03:12.267Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "c4c0fa3f-8714-42ed-aa75-23afcc35faf1",
+                        "loopsPerPlay": 1,
+                        "name": "Containers for change Tavern 2",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-10T22:41:41.852Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": true
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "8624a308-9b17-48e8-bdae-674a5b4cb12f",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "a2096d4c-4f3c-441f-9d23-139d211cc34d",
+                                    "name": "WRRRBH0166-05-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "a2096d4c-4f3c-441f-9d23-139d211cc34d",
+                                    "createdAt": "2025-07-30T00:29:08.557Z",
+                                    "updatedAt": "2025-07-30T00:29:08.553Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "48681036-b69f-4541-b0f6-4aa2b685ca16"
+                                }
+                            },
+                            {
+                                "id": "6879270b-c8b3-46bb-84d0-fb393bf7e1a9",
+                                "order": 1,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "52a6c24a-16ea-44cb-803a-9f9138ab4171",
+                                    "name": "WRRRBH0166-06-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "52a6c24a-16ea-44cb-803a-9f9138ab4171",
+                                    "createdAt": "2025-07-30T00:29:41.742Z",
+                                    "updatedAt": "2025-07-30T00:29:41.738Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "24b35337-d7f9-45ed-8c8a-ff0048869377"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "5c77f4c9-e1ed-40de-b316-1f55387f600f",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-09-01",
+                            "endDate": "2025-10-04",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "d647be2c-c65c-4ad8-85c4-b1eeaa34330e",
+                    "booking": {
+                        "createdAt": "2025-07-30T01:05:05.345Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "b25a0f83-4dc7-4825-8f0b-3c1ca6c0c3f1",
+                        "loopsPerPlay": 1,
+                        "name": "Containers for change Tavern 3",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-10T22:45:50.283Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": true
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "bffdb715-efaa-4b33-8599-a0303fe6fbfe",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "f53e6752-b09e-488f-a70a-122028896dd4",
+                                    "name": "WRRRBH0166-04-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "f53e6752-b09e-488f-a70a-122028896dd4",
+                                    "createdAt": "2025-07-30T00:29:04.012Z",
+                                    "updatedAt": "2025-07-30T00:29:04.006Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "2b25a4bf-4466-4564-9709-d4a7225e97c6"
+                                }
+                            },
+                            {
+                                "id": "c0e926bf-b549-479d-bf43-ca20273e39f1",
+                                "order": 1,
+                                "durationSource": "custom",
+                                "durationMs": 15040,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "ec9b842d-3b84-4ccc-a481-d6925fc05462",
+                                    "name": "WRRRBH0166-07-OOH-Winboard-Minesite-1080x1920.mp4",
+                                    "type": "video",
+                                    "fileId": "ec9b842d-3b84-4ccc-a481-d6925fc05462",
+                                    "createdAt": "2025-07-30T00:29:55.125Z",
+                                    "updatedAt": "2025-07-30T00:29:55.116Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "aacc05f1-1fb8-4b99-994a-6ab30b5364dc",
+                                    "thumbnailId": "1815abf0-44a6-401a-8582-f499bc07da79"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "399d6f30-b9c8-46e1-83de-e493e7bec998",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-10-05",
+                            "endDate": "2025-11-02",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "e1ac98d1-80ec-4646-bbb0-a654e083db11",
+                    "booking": {
+                        "createdAt": "2025-08-13T23:05:55.133Z",
+                        "assignedCreativeCount": 2,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "47a46963-7e97-4114-b52b-ab60a8193cd2",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 5. October",
+                        "playConsecutively": false,
+                        "playsPerLoop": 2,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-13T23:07:32.271Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "24760d99-7643-405c-ad12-51477fa8e6d2",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 10010,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "68a711c9-af98-44f5-b8fa-62eb3d7f0d51",
+                                    "name": "Coopers_ArcadeGame_ETW_SodexoPromo_DigiScreen_Portrait_FA_MidStrength.mp4",
+                                    "type": "video",
+                                    "fileId": "68a711c9-af98-44f5-b8fa-62eb3d7f0d51",
+                                    "createdAt": "2025-07-11T03:48:07.953Z",
+                                    "updatedAt": "2025-08-13T22:48:36.944Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "91d77a69-1ceb-4ebe-88f6-f2e4219178e9",
+                                    "thumbnailId": "46fdec60-54c0-4488-b10b-9e2d9062fb44"
+                                }
+                            },
+                            {
+                                "id": "ced69c00-a87e-429d-8ab0-a6295c26c9a4",
+                                "order": 1,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "2c1bb571-fd09-4458-804b-dbf6b5163cd2",
+                                    "name": "Sodexo Billsons 1080x1920 116067.mp4",
+                                    "type": "video",
+                                    "fileId": "2c1bb571-fd09-4458-804b-dbf6b5163cd2",
+                                    "createdAt": "2025-07-24T23:15:35.765Z",
+                                    "updatedAt": "2025-08-13T22:48:44.645Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "91d77a69-1ceb-4ebe-88f6-f2e4219178e9",
+                                    "thumbnailId": "dd8ddd4f-69dc-40d8-b35b-b6ecdff31661"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "eca322f2-3961-4fa5-996f-76941a3b2f6d",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-10-06",
+                            "endDate": "2025-11-09",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "b2dde7e5-1072-4c07-8cf6-e83af403c612",
+                    "booking": {
+                        "createdAt": "2025-07-11T03:50:08.182Z",
+                        "assignedCreativeCount": 1,
+                        "assignedFrameCount": 11,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "16f57e73-6a38-43b8-8f9b-3d21a52d1366",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 1/8 - 5/10",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-07-31T22:29:59.329Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "d81e41b9-4519-48ba-8eeb-966a44dd0ddd",
+                                "order": 0,
+                                "durationSource": "custom",
+                                "durationMs": 17000,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "8ff0ee1d-b118-4df1-89c3-ff995c6c47c0",
+                                    "name": "BFIH00~1(No Price).MP4",
+                                    "type": "video",
+                                    "fileId": "8ff0ee1d-b118-4df1-89c3-ff995c6c47c0",
+                                    "createdAt": "2025-07-11T03:47:49.179Z",
+                                    "updatedAt": "2025-08-13T22:53:36.630Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "cee43654-ccec-4e83-a855-e2bdce4c09aa",
+                                    "thumbnailId": "1fc3aa6d-e108-4768-8b08-696dabeae7fc"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "d1a6e69c-eb66-4068-8666-b3ab664f74c2",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-08-01",
+                            "endDate": "2025-10-05",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "10fa7ce8-ec70-4ab9-a6de-22960284cda0",
+                    "booking": {
+                        "createdAt": "2025-08-13T23:08:34.100Z",
+                        "assignedCreativeCount": 1,
+                        "assignedFrameCount": 14,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "e7887f79-46f3-4c1f-a3ae-1d7580151a14",
+                        "loopsPerPlay": 1,
+                        "name": "Sodexo Tavern 6. November",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-13T23:09:28.009Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "09189bca-4ae7-4182-8c72-ad4ecfb6c523",
+                                "order": 0,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "8013f5d9-622f-4b33-809a-0184acd22127",
+                                    "name": "126503 Asahi Locals GNO_DIGI 1080x1920.jpg",
+                                    "type": "image",
+                                    "fileId": "8013f5d9-622f-4b33-809a-0184acd22127",
+                                    "createdAt": "2025-08-13T22:55:49.780Z",
+                                    "updatedAt": "2025-08-13T22:55:49.775Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "87af2970-445e-4b90-86e9-ed1d72fe534b",
+                                    "thumbnailId": "b6156834-3cdb-4b92-8abc-fc633559bb66"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "43c85450-6592-4dc1-aa3b-8b1472aa640d",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startDate": "2025-11-10",
+                            "endDate": "2025-12-07",
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "947866af-4ebb-4773-8c55-adf308250b9b",
+                    "booking": {
+                        "createdAt": "2025-05-29T22:29:38.486Z",
+                        "assignedCreativeCount": 1,
+                        "assignedFrameCount": 16,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "fa6a9eaa-67a9-4f77-b97a-21ba3506986c",
+                        "loopsPerPlay": 1,
+                        "name": "Temp",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-03T23:01:15.420Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "e6987798-9efa-434f-a017-f762c1ca3e24",
+                                "order": 0,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "73b1a2ec-b9a1-46d1-82fb-a15be6a319e3",
+                                    "name": "Adverto Screens.zip - 1.png",
+                                    "type": "image",
+                                    "fileId": "73b1a2ec-b9a1-46d1-82fb-a15be6a319e3",
+                                    "createdAt": "2024-11-29T01:57:34.375Z",
+                                    "updatedAt": "2025-07-08T03:19:14.276Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": "6673be95-b09a-4055-99b3-3c3087792e9e",
+                                    "thumbnailId": "8b820340-d158-4973-94bd-0779b5a4756f"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "33d7314e-ad10-4fcd-aba6-47a8a639552b",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                },
+                {
+                    "id": "48911967-fdb6-4a82-aa4f-600478cd293d",
+                    "booking": {
+                        "createdAt": "2025-08-19T03:04:50.515Z",
+                        "assignedCreativeCount": 3,
+                        "assignedFrameCount": 18,
+                        "creativeSchedulesEnabled": false,
+                        "creativeWeightsEnabled": false,
+                        "id": "5eaa87eb-2774-40e4-a2cc-ba9f324a52d1",
+                        "loopsPerPlay": 1,
+                        "name": "Lifeline",
+                        "playConsecutively": false,
+                        "playsPerLoop": 1,
+                        "purchaseType": "Sold",
+                        "status": "booked",
+                        "updatedAt": "2025-08-19T03:07:53.378Z",
+                        "externalId": null,
+                        "seedooh": {
+                            "enabled": false
+                        },
+                        "assignedCreatives": [
+                            {
+                                "id": "33f803ba-634f-45e7-8a44-6c156adf6a26",
+                                "order": 0,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "3aeb689c-9291-4ad2-a3a1-16b93138fcff",
+                                    "name": "Lifeline WA 1080x1920 V1.mp4",
+                                    "type": "video",
+                                    "fileId": "3aeb689c-9291-4ad2-a3a1-16b93138fcff",
+                                    "createdAt": "2025-08-19T03:05:41.245Z",
+                                    "updatedAt": "2025-08-19T03:05:41.160Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": null,
+                                    "thumbnailId": "50835f23-275d-4d05-abdc-8808c2e0c066"
+                                }
+                            },
+                            {
+                                "id": "604ba1d0-edd0-40b6-9548-5ba257ae4749",
+                                "order": 1,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "3f284f54-2e60-4f3f-8ede-1b79dbaf71c8",
+                                    "name": "Lifeline WA 1080x1920 V2.mp4",
+                                    "type": "video",
+                                    "fileId": "3f284f54-2e60-4f3f-8ede-1b79dbaf71c8",
+                                    "createdAt": "2025-08-19T03:05:43.276Z",
+                                    "updatedAt": "2025-08-19T03:05:42.566Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": null,
+                                    "thumbnailId": "4d79f246-01d3-4651-909e-5143db7305cf"
+                                }
+                            },
+                            {
+                                "id": "740591b0-1a90-405a-845b-d50bf82a8c51",
+                                "order": 2,
+                                "durationSource": "inherit",
+                                "durationMs": null,
+                                "weight": 1,
+                                "frameTargetingEnabled": false,
+                                "creative": {
+                                    "id": "fca39e9c-9c91-4cfc-8ed1-2fadd64c18e7",
+                                    "name": "Lifeline WA 1080x1920 V3.mp4",
+                                    "type": "video",
+                                    "fileId": "fca39e9c-9c91-4cfc-8ed1-2fadd64c18e7",
+                                    "createdAt": "2025-08-19T03:05:47.015Z",
+                                    "updatedAt": "2025-08-19T03:05:47.010Z",
+                                    "playback": {
+                                        "scaling": "contain"
+                                    },
+                                    "folderId": null,
+                                    "thumbnailId": "eab1e603-e349-4293-9b37-75ed69a05de2"
+                                }
+                            }
+                        ],
+                        "schedule": {
+                            "id": "fa934c06-413e-40a6-b7ff-185a219c7275",
+                            "timezone": "Australia/Sydney",
+                            "useLocalTime": true,
+                            "startTime": "00:00:00",
+                            "endTime": "23:59:59",
+                            "days": [
+                                "mon",
+                                "tue",
+                                "wed",
+                                "thu",
+                                "fri",
+                                "sat",
+                                "sun"
+                            ]
+                        },
+                        "tags": []
+                    }
+                }
+            ],
+            "loopPolicy": {
+                "id": "79e042c5-86ce-4655-b7ca-187ea40e97a5",
+                "ownerId": "10247a0a-fef2-4497-bbdc-6a4881f43fc6",
+                "createdAt": "2024-11-14T04:26:07.785Z",
+                "updatedAt": "2025-08-12T02:48:33.069Z",
+                "name": "Default (10 slots, 15s)",
+                "overbookable": true,
+                "programmaticFollowOnStrategy": "none",
+                "programmaticWeighted": false,
+                "separateByProductCategory": true,
+                "excludeFallbackOnSeparationConflict": false,
+                "slotCount": 10,
+                "slotDuration": 15,
+                "programmatic": {
+                    "enabled": false,
+                    "reservedSlotCount": 1,
+                    "fillRemainingSlots": false
+                }
+            },
+            "transition": {
+                "enabled": false,
+                "method": "crossFade",
+                "durationMs": 400
+            }
+        }
+    ],
+    "tags": [],
+    "operatingTimes": [
+        {
+            "id": "097c0e0b-12e5-4b8d-b0a6-e10cd6b27d0d",
+            "dayOfWeek": "mon",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "95296617-9938-4135-b4ec-87f7756c89d7",
+            "dayOfWeek": "tue",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "40d226d5-289f-4f12-9cfd-beb265eb11f2",
+            "dayOfWeek": "wed",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "90d796c8-8cf6-4a90-b106-33c6ec3b10f3",
+            "dayOfWeek": "thu",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "8eaa3b50-3ca7-4e31-b2f7-da3eedb7cf1b",
+            "dayOfWeek": "fri",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "205bb065-1bf0-4415-9302-e331a9a4743e",
+            "dayOfWeek": "sat",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        },
+        {
+            "id": "298a0078-76a3-43a2-9365-2bbfbe12b27c",
+            "dayOfWeek": "sun",
+            "startTime": "00:00:00",
+            "endTime": "23:59:59"
+        }
+    ],
+    "playerWindowPreset": {
+        "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+        "name": "Fullscreen",
+        "mode": "fullscreen",
+        "rotation": "0",
+        "x": null,
+        "y": null,
+        "width": null,
+        "height": null,
+        "createdAt": "2024-11-14T04:26:07.784Z",
+        "updatedAt": "2024-11-14T04:26:07.784Z",
+        "deletedAt": null
+    },
+    "isConnected": true,
+    "bringToFrontTimer": {
+        "override": false,
+        "enabled": false,
+        "intervalMs": 0
+    },
+    "screenControl": {
+        "connectionSettings": null,
+        "connectionType": null,
+        "enabled": false,
+        "endBufferDurationMs": 600000,
+        "modelId": null,
+        "repeatMs": 300000,
+        "startBufferDurationMs": 600000
+    },
+    "screenModel": null
+}

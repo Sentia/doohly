@@ -1,0 +1,2576 @@
+[
+    {
+        "id": "092d8f4c-b9a7-42b9-9a98-0eb9b12d4e0d",
+        "name": "Gudai-Darri 2",
+        "aliveAt": "2025-08-20T04:33:13.269Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.0938644,
+                -22.5386657
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": false,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-07-14T04:07:06.413Z",
+        "updatedAt": "2025-08-20T04:33:13.279Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.5"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.170.45",
+                "ip4subnet": "255.255.248.0",
+                "mac": "e8:bf:b8:01:bf:7b",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8129581056,
+                "free": 689631232
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 43180863488
+            },
+            "updatedAt": "2025-08-20T04:23:28.462Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "da68d846-008b-42d6-9dcb-af5ee26cd2e1",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "0b37e4c3-d947-4603-9890-cf123c1f0bd4",
+        "name": "Punurunnha",
+        "aliveAt": "2025-08-20T04:33:13.269Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                118.0166812,
+                -22.5782517
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T04:47:30.125Z",
+        "updatedAt": "2025-08-20T04:33:13.279Z",
+        "deletedAt": null,
+        "location": {
+            "address": "Karajini Drive",
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.72.130",
+                "ip4subnet": "255.255.248.0",
+                "mac": "00:72:ee:4a:3e:7c",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130641920,
+                "free": 379236352
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 38324113408
+            },
+            "updatedAt": "2025-08-20T04:23:28.709Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "3ecc4885-fecd-4f03-ae6b-0954bd16f480",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "15c00813-8b1d-415c-b9df-9d6e4b0a39da",
+        "name": "Hope Downs 1",
+        "aliveAt": "2025-08-16T06:21:32.085Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.0206743,
+                -23.0511998
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-28T22:44:06.853Z",
+        "updatedAt": "2025-08-16T06:21:32.091Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "enp1s0",
+                "ip4": "10.0.0.205",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:e0:4c:0b:9b:25",
+                "type": "wired",
+                "speed": 1000,
+                "dhcp": true
+            },
+            "memory": {
+                "total": 8130777088,
+                "free": 4424613888
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 39087919104
+            },
+            "updatedAt": "2025-08-16T06:14:14.687Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "8433e862-d6fc-45f9-b9ed-5aa859822455",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": false,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "33c557f5-2b5c-41ae-9817-084081823fc9",
+        "name": "Mesa A",
+        "aliveAt": "2025-08-20T04:33:19.471Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                115.8810653,
+                -21.6611289
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T03:21:08.402Z",
+        "updatedAt": "2025-08-20T04:33:19.473Z",
+        "deletedAt": null,
+        "location": {
+            "address": "Tourist Drive 354",
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "10.0.0.34",
+                "ip4subnet": "255.255.255.0",
+                "mac": "10:5f:ad:e8:c2:db",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130785280,
+                "free": 683745280
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 43589152768
+            },
+            "updatedAt": "2025-08-20T04:28:18.643Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "f99e5763-af8f-47dc-89bf-fef5863775bd",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "3ef76541-1235-4a63-8c40-749428efdab9",
+        "name": "Yandi",
+        "aliveAt": "2025-08-20T04:32:53.520Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.2543945,
+                -22.7411174
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-30T00:43:05.033Z",
+        "updatedAt": "2025-08-20T04:32:53.526Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.7"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.65.4",
+                "ip4subnet": "255.255.248.0",
+                "mac": "10:5f:ad:e9:01:29",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130789376,
+                "free": 778043392
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 44617146368
+            },
+            "updatedAt": "2025-08-20T04:30:30.261Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "36473904-e980-44cf-8a0a-d2c4078b45b2",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "55752e22-d511-4c90-bf6d-1ef32425784c",
+        "name": "Sodexo Corner Concept - 55\" Outdoor",
+        "aliveAt": "2025-08-20T04:33:13.269Z",
+        "brightness": 100,
+        "externalId": "Corner Store",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.094139121,
+                -22.538557227
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2024-11-14T23:07:37.051Z",
+        "updatedAt": "2025-08-20T04:33:13.279Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "9d5805f5-96f1-470f-b542-a3d4c65bbbfd",
+                "name": "Convenience Stores"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.5"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.5.0-18-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "enp1s0",
+                "ip4": "192.168.2.5",
+                "ip4subnet": "255.255.255.192",
+                "mac": "00:e0:4c:0b:9c:a4",
+                "type": "wired",
+                "speed": 1000,
+                "dhcp": true
+            },
+            "memory": {
+                "total": 8129568768,
+                "free": 687017984
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 34120835072
+            },
+            "updatedAt": "2025-08-20T04:31:41.674Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "ced98adc-d573-41d5-8b8f-98dec2b4368a",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "5c9a7717-1311-4718-b0e3-addb5c06d578",
+        "name": "Jundunmunnah",
+        "aliveAt": "2025-08-20T04:33:20.800Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.774843,
+                -22.7316904
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": false,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T00:59:56.982Z",
+        "updatedAt": "2025-08-20T04:33:20.802Z",
+        "deletedAt": null,
+        "location": {
+            "address": "Mine Road",
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "enp1s0",
+                "ip4": "10.0.0.200",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:e0:4c:0b:99:24",
+                "type": "wired",
+                "speed": 1000,
+                "dhcp": true
+            },
+            "memory": {
+                "total": 8130785280,
+                "free": 4129673216
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 44676685824
+            },
+            "updatedAt": "2025-08-20T04:23:23.743Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "57e2638d-c6dc-4189-a9de-07fb0b4e3735",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "5e9a5824-3e36-43b8-95da-5a7b7ff28bf2",
+        "name": "West Pilbara Village",
+        "aliveAt": "2025-08-20T04:33:09.876Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.3058078,
+                -22.5724151
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T05:34:15.419Z",
+        "updatedAt": "2025-08-20T04:33:09.883Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "10.0.0.213",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:72:ee:49:0c:c3",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130641920,
+                "free": 697544704
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 44754305024
+            },
+            "updatedAt": "2025-08-20T04:27:03.230Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "274b0318-2a35-4977-91e6-0a5abdd5ac8d",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "878051ec-1d39-45c3-acdb-f8aa446ef97a",
+        "name": "Brockman 4",
+        "aliveAt": "2025-08-20T04:32:53.520Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.3098938,
+                -22.5697827
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-28T04:41:49.155Z",
+        "updatedAt": "2025-08-20T04:32:53.526Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "10.0.0.51",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:72:ee:4a:3e:d6",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130646016,
+                "free": 580972544
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 38646833152
+            },
+            "updatedAt": "2025-08-20T04:30:36.167Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "a7513afa-03b4-4d5e-9c87-e50fd027466e",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "a1ba469c-64a6-4fcf-9384-faff6d852516",
+        "name": "Nammuldi",
+        "aliveAt": "2025-08-08T12:57:10.352Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.3117587,
+                -22.5721291
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T04:12:37.697Z",
+        "updatedAt": "2025-08-08T12:57:10.360Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "10.0.0.211",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:72:ee:48:ff:26",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130641920,
+                "free": 670773248
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 42766987264
+            },
+            "updatedAt": "2025-08-08T12:56:28.942Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "151a79f1-026f-4463-9551-f4444d3cf7c2",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": false,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "ae49cdb4-4b0a-4bb1-b259-4b9f7d88001a",
+        "name": "Hope Downs 4",
+        "aliveAt": "2025-08-20T04:32:53.520Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.5077867,
+                -23.2044217
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-28T23:55:30.863Z",
+        "updatedAt": "2025-08-20T04:32:53.526Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.16.169",
+                "ip4subnet": "255.255.248.0",
+                "mac": "00:72:ee:4b:59:d3",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130617344,
+                "free": 609955840
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 42809348096
+            },
+            "updatedAt": "2025-08-20T04:28:18.703Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "e4b55f29-9445-4b23-bef4-ee931643045d",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "cad8bd71-526f-4668-a52b-1ffbcf7086e3",
+        "name": "Gudai-Darri 1",
+        "aliveAt": "2025-08-20T04:33:02.756Z",
+        "brightness": 100,
+        "externalId": "Retail",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.0938644,
+                -22.5386657
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-30T01:51:03.356Z",
+        "updatedAt": "2025-08-20T04:33:02.764Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "067ecf8b-26de-4341-a2a1-c93facd22dd2",
+                "name": "Office Buildings"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.171.0",
+                "ip4subnet": "255.255.248.0",
+                "mac": "10:5f:ad:ea:14:38",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8129589248,
+                "free": 500297728
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 37636284416
+            },
+            "updatedAt": "2025-08-20T04:24:52.564Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "e238eb48-6537-4217-a08f-62780c5f9bce",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "cc0cec6e-f0f4-469a-8f1c-5598e278a6bb",
+        "name": "Brockman 2",
+        "aliveAt": "2025-08-20T04:33:18.132Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.3777667,
+                -22.3854392
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-28T03:38:31.363Z",
+        "updatedAt": "2025-08-20T04:33:18.140Z",
+        "deletedAt": null,
+        "location": {
+            "address": "665 Welshpool Road East",
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.224.53",
+                "ip4subnet": "255.255.248.0",
+                "mac": "e8:bf:b8:1c:60:51",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130777088,
+                "free": 832446464
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 45086564352
+            },
+            "updatedAt": "2025-08-20T04:33:14.917Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "83f8b820-d03d-4ab1-9d83-d14edd221ec7",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "cf85fa9b-45a6-4a59-b430-49b0982e1512",
+        "name": "West Angelas Village",
+        "aliveAt": "2025-08-20T04:33:18.132Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                118.6961227,
+                -23.1300387
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T22:59:19.965Z",
+        "updatedAt": "2025-08-20T04:33:18.140Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "enp1s0",
+                "ip4": "10.0.0.103",
+                "ip4subnet": "255.255.255.0",
+                "mac": "00:e0:4c:93:6b:ee",
+                "type": "wired",
+                "speed": 1000,
+                "dhcp": true
+            },
+            "memory": {
+                "total": 8130617344,
+                "free": 858427392
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 38523949056
+            },
+            "updatedAt": "2025-08-20T04:26:02.269Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "751a3c91-bd3c-4aa3-971e-5d964babac7f",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "d8050dbb-4aea-413b-b86f-d6968d4002fe",
+        "name": "Gudai-Darri 3",
+        "aliveAt": "2025-08-20T04:33:18.890Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.0938644,
+                -22.5386657
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-30T03:56:56.083Z",
+        "updatedAt": "2025-08-20T04:33:18.897Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.171.56",
+                "ip4subnet": "255.255.248.0",
+                "mac": "e8:bf:b8:01:d8:76",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130785280,
+                "free": 736182272
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 37637636096
+            },
+            "updatedAt": "2025-08-20T04:23:32.438Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "3feb7523-33b3-411c-8bff-9bca5a75d1ab",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "e7024900-036d-46fd-9b3a-2699865322c7",
+        "name": "Jerrwiah",
+        "aliveAt": "2025-08-09T07:42:19.652Z",
+        "brightness": 100,
+        "externalId": "Tavern",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                117.3757375,
+                -22.3925032
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-29T01:55:21.450Z",
+        "updatedAt": "2025-08-09T07:42:19.658Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "2bf17583-62eb-4134-81da-a33cb3998700",
+                "name": "Casual Dining"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "10.0.0.52",
+                "ip4subnet": "255.255.255.0",
+                "mac": "94:b6:09:1a:ae:b9",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8130637824,
+                "free": 3618750464
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 45379690496
+            },
+            "updatedAt": "2025-08-09T07:41:20.225Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "cc2757eb-7bbd-4c9c-b6a8-3623ecd906a1",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": false,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "f112aa76-00da-4477-b9c3-6eccbfa32964",
+        "name": "Sodexo Corner Concept - 55\" Indoor",
+        "aliveAt": "2025-08-20T04:33:18.132Z",
+        "brightness": 100,
+        "externalId": "Corner Store",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.094139121,
+                -22.538557227
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2024-11-14T22:12:58.509Z",
+        "updatedAt": "2025-08-20T04:33:18.140Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "9d5805f5-96f1-470f-b542-a3d4c65bbbfd",
+                "name": "Convenience Stores"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.5"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-47-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "enp1s0",
+                "ip4": "192.168.2.3",
+                "ip4subnet": "255.255.255.192",
+                "mac": "00:e0:4c:03:0a:0d",
+                "type": "wired",
+                "speed": 1000,
+                "dhcp": true
+            },
+            "memory": {
+                "total": 8129564672,
+                "free": 699420672
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 37125070848
+            },
+            "updatedAt": "2025-08-20T04:27:43.996Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "0c650791-2d15-4861-85e5-9bcd389406b4",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    },
+    {
+        "id": "f65303d4-f759-45f7-a348-b901d7e3d006",
+        "name": "Gudai-Darri 4",
+        "aliveAt": "2025-08-20T04:33:18.132Z",
+        "brightness": 100,
+        "externalId": "Retail",
+        "geoLocation": {
+            "type": "Point",
+            "coordinates": [
+                119.0938644,
+                -22.5386657
+            ]
+        },
+        "timezone": "Australia/West",
+        "variant": "desktop",
+        "volume": 50,
+        "hardwareAccelerationEnabled": true,
+        "minimized": false,
+        "locked": false,
+        "isTest": false,
+        "targetReleaseAfter": null,
+        "targetReleaseTimezone": null,
+        "programmaticPackageType": null,
+        "createdAt": "2025-05-30T04:35:09.058Z",
+        "updatedAt": "2025-08-20T04:33:18.140Z",
+        "deletedAt": null,
+        "location": {
+            "address": null,
+            "city": null,
+            "state": null,
+            "postcode": null,
+            "country": null
+        },
+        "mappedIn": {
+            "enabled": false,
+            "idleDelayMs": null
+        },
+        "volumeControl": {
+            "enabled": false,
+            "muted": true,
+            "updateIntervalMs": null
+        },
+        "seedooh": {
+            "category": {
+                "id": "067ecf8b-26de-4341-a2a1-c93facd22dd2",
+                "name": "Office Buildings"
+            }
+        },
+        "vistar": {
+            "enabled": false,
+            "networkId": null,
+            "venueId": null
+        },
+        "meta": {
+            "application": {
+                "version": "5.7.4"
+            },
+            "system": {
+                "manufacturer": "LattePanda",
+                "model": "LattePanda 3 Delta",
+                "serial": "-"
+            },
+            "os": {
+                "platform": "linux",
+                "distro": "Ubuntu",
+                "release": "22.04.5 LTS",
+                "kernel": "6.8.0-60-generic",
+                "arch": "x64"
+            },
+            "network": {
+                "interface": "wlo1",
+                "ip4": "192.168.169.1",
+                "ip4subnet": "255.255.248.0",
+                "mac": "10:5f:ad:e8:c4:4d",
+                "type": "wireless",
+                "speed": -1,
+                "dhcp": false
+            },
+            "memory": {
+                "total": 8129568768,
+                "free": 529272832
+            },
+            "storage": {
+                "total": 60701995008,
+                "free": 37551513600
+            },
+            "updatedAt": "2025-08-20T04:23:50.633Z"
+        },
+        "referenceImage": null,
+        "frames": [
+            {
+                "id": "206497ef-4512-4007-bb2c-b3cf63a8f12a",
+                "name": "Default",
+                "order": 0,
+                "bounds": {
+                    "units": "percentage",
+                    "width": 100,
+                    "height": 100,
+                    "x": 0,
+                    "y": 0
+                },
+                "backgroundColor": "#000000",
+                "seedooh": {
+                    "enabled": true,
+                    "panelId": null
+                },
+                "transition": {
+                    "enabled": false,
+                    "method": "crossFade",
+                    "durationMs": 400
+                }
+            }
+        ],
+        "tags": [],
+        "playerWindowPreset": {
+            "id": "1f2b00f2-e7b6-41e4-88a7-fb252e149688",
+            "name": "Fullscreen",
+            "mode": "fullscreen",
+            "rotation": "0",
+            "x": null,
+            "y": null,
+            "width": null,
+            "height": null,
+            "createdAt": "2024-11-14T04:26:07.784Z",
+            "updatedAt": "2024-11-14T04:26:07.784Z",
+            "deletedAt": null
+        },
+        "isConnected": true,
+        "bringToFrontTimer": {
+            "override": false,
+            "enabled": false,
+            "intervalMs": 0
+        },
+        "screenControl": {
+            "connectionSettings": null,
+            "connectionType": null,
+            "enabled": false,
+            "endBufferDurationMs": 600000,
+            "modelId": null,
+            "repeatMs": 300000,
+            "startBufferDurationMs": 600000
+        }
+    }
+]
