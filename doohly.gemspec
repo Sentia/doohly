@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = "Ruby client for the Doohly DOOH advertising platform API"
   spec.description = "A Ruby client library for interacting with the Doohly (Digital Out-of-Home) " \
                      "advertising platform API. Supports managing bookings, devices, creatives, and more."
-  spec.homepage = "https://github.com/Sentia/doohly"
+  spec.homepage = "https://www.sentia.com.au"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.2.0"
 
@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.files = Dir.chdir(__dir__) do
     `git ls-files -z`.split("\x0").reject do |f|
       (File.expand_path(f) == __FILE__) ||
-        f.start_with?(*%w[bin/ test/ spec/ features/ .git .github appveyor Gemfile])
+        f.start_with?(*%w[bin/ test/ spec/ features/ .git .github appveyor Gemfile docs/ examples/])
     end
   end
   spec.bindir = "exe"
